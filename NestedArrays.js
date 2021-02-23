@@ -51,6 +51,6 @@ function countVowels(arr) {
                     count = CountCharacters(count, elem2);
         else
             count = CountCharacters(count, elem1);
-return count;
+    return count;
 }
 console.log(countVowels(nestedArr));
